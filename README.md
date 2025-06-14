@@ -1,1 +1,1 @@
-# PlantPal1
+# Plant Pal - A Virtual Houseplant Companion
